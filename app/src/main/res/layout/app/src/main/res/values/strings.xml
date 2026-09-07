@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accessible Cleaner & Ad Skipper</string>
+    <string name="accessibility_service_label">Accessible Cleaner Service</string>
+    <string name="accessibility_service_description">Skips YouTube ads automatically and helps clean junk files.</string>
+</resources>
